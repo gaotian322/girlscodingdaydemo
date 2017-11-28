@@ -1,0 +1,115 @@
+/*
+Template Name: Company Profile
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+h1{
+   padding:0;
+   margin:0;
+   }
+   h2{
+   padding:0;
+   margin:0;
+   }
+   h3{
+   padding:0;
+   margin:0;
+   }
+  .border_bottom{
+                border-bottom:1px solid #cccccc;
+				}
+/********************* center ****************/
+.center_1{
+            padding-bottom:10px;
+			padding-top:60px;
+           }
+
+/*********************center_end ****************/
+
+/********************* contact ****************/
+.contact_1{
+          
+          }
+.active{ 
+        padding:10px;  
+	   }
+.submit{
+            background: #999999;
+			color:#FFFFFF;
+			padding:8px 60px 8px 60px;
+			border:1px solid;
+		}
+/********************* contact_end ****************/
+/********************* Our Team ****************/
+.Our Team_bottom_2 h4{
+                      color:#FF6600;
+                     }
+/********************* Our Team_end ****************/
+/********************* footer ****************/
+.footer{
+        background:#000000;
+		padding-top:20px;
+		padding-bottom:20px;
+       }
+.footer_1 a{
+           text-decoration:none;
+		   color:#FFFFFF;
+           }
+.footer_1{
+          padding-left:20px;
+		  color:#FFFFFF;
+          }
+.footer_1 a:hover{
+              text-decoration:none; 
+			  color:#FFFF00; 
+                }
+/********************* footer_end ****************/
+/********************* Projects ******************/
+.projects{
+          
+         }
+.projects_1 h1{
+                 padding-top:70px;
+				 padding-bottom:50PX;
+				 
+              }
+
+/********************* Projects_end *****************/
+/********************  Services *********************/
+.services_1 h1{
+               padding-top:70px;
+			   padding-bottom:80PX;
+              }
+/********************  Services_end *********************/
+/********************  Our Team *********************/
+#ourteam{
+        padding-bottom:140px;
+		}
+.Our_Team h1{
+               padding-top:70px;
+			  
+              }
+.Our_Team i{
+               font-size:3em;
+              }
+/********************  Our Team_END *********************/
+/********************  contact **************************/
+#contact{
+       
+		padding-bottom:100px;
+		
+		}
+.contact_1 h1{
+             
+              
+             }
+.call{
+  padding-right:37px;  
+	}
+.text{
+ padding-right:34px;
+     }
+/********************  contact.end **************************/
+
